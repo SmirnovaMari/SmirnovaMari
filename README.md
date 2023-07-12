@@ -1,4 +1,4 @@
-### Hi there 😺
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=con-fuoco)](https://github.com/con-fuoco/leetcode-stats)
 <!--
 **SmirnovaMari/SmirnovaMari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
